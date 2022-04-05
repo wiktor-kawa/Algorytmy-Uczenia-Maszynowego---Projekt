@@ -1,4 +1,5 @@
-# Algorytmy-Uczenia-Maszynowego---Projekt
+Algorytmy-Uczenia-Maszynowego---Projekt
+
 Repozytorium do projekt z kursu "Algorytmy Uczenia Maszynowego" K05-02f
 
 Podczas projektu realizowany jest algorytm klasyfikacji stanu akceptowalności pojazdów w zależności od kilku atrybutów
